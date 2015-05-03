@@ -1,6 +1,7 @@
 // Copyright (c) 2013 GitHub, Inc.
 // Use of this source code is governed by the MIT license that can be
 // found in the LICENSE file.
+// Throwing in another note on the project.
 
 #ifndef ATOM_APP_ATOM_LIBRARY_MAIN_H_
 #define ATOM_APP_ATOM_LIBRARY_MAIN_H_
